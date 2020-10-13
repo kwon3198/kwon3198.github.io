@@ -198,7 +198,7 @@ main {
 .content__item-header-meta {
 	text-indent: 0.25rem;
 	display: block;
-	color: var(--color-content-meta);
+	color: #b1acac;
 }
 
 .dark-mode .content__item-header-meta {
@@ -510,9 +510,9 @@ main {
 		font-size: 8vw;
 	}
 	.content__item-copy {
-		max-width: 240px;
+		max-width: 420px;
 		justify-self: end;
-		text-align: right;
+		text-align: left;
 	}
 	.grid__item--cursor.grid__item--left::after,
 	.grid__item--cursor.grid__item--right::after,
